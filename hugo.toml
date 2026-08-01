@@ -2,7 +2,7 @@
 # Site Identity
 # ============================================================
 baseURL = 'https://huaoyan.top/'
-languageCode = 'zh-cn'
+locale = 'zh-cn'
 title = "Huaoyan's Blog"
 
 # ============================================================
