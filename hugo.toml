@@ -4,7 +4,6 @@
 baseURL = 'https://huaoyan.top/'
 languageCode = 'zh-cn'
 title = "Huaoyan's Blog"
-theme = 'github.com/adityatelange/hugo-PaperMod'
 
 # ============================================================
 # Hugo Modules
@@ -127,5 +126,4 @@ enableEmoji = true
 
   # --- Archive ---
   [params.archive]
-    [params.archive.archives]
-      layout = 'monthly'
+    layout = 'monthly'
