@@ -1,0 +1,17 @@
+# Hugo build output
+/public/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Hugo module cache (if vendored)
+/vendor/
+
+# IDE
+.vscode/
+.idea/
