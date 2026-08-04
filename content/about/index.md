@@ -17,7 +17,7 @@ layout: "page"
 ### 联系方式
 
 - GitHub: [@aoyanhu](https://github.com/aoyanhu)
-- Email: （待补充）
+- Email: [aoyanhu@gmail.com](mailto:aoyanhu@gmail.com)
 
 ---
 
