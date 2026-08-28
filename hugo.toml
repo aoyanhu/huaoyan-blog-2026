@@ -18,6 +18,9 @@ title = "Huaoyan's Blog"
 # Enable emoji in content
 enableEmoji = true
 
+# Always build future-dated posts (so pre-written articles publish on schedule)
+buildFuture = true
+
 [permalinks]
   posts = '/posts/:year/:slugorcontentbasename/'
 
