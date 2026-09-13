@@ -18,3 +18,6 @@
 # IDE
 .vscode/
 .idea/
+
+# 本地笔记文件，不上传
+content/**/*.txt

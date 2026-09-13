@@ -1,9 +1,0 @@
-发（记得开加速器)
-cd "/d/Zcode Program(myself)/huaoyan-blog-2026"
-git add -A && git commit -m "新文章" && git push
-改
-cd "/d/Zcode Program(myself)/huaoyan-blog-2026"
-git add -A && git commit -m "修改文章" && git push
-删
-cd "/d/Zcode Program(myself)/huaoyan-blog-2026"
-git add -A && git commit -m "删除文章" && git push
